@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Runtime / service data
+device.json
+logs/
+daemon/
+
+# Build artifacts
+*.exe
+
+# OS / misc
+.DS_Store
+Thumbs.db
